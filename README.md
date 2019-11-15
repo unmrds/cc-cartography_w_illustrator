@@ -11,10 +11,15 @@
     ii. Adobe Illustrator
   
   b. GIS Map Generation for extended workflow in Illustrator
+  
   c. Import into Illustrator 
+  
   d. Pre-processing - separating content into layers (if needed)
+  
   e. Styling of vector content
+  
   f. Working with text - especially specialized feature labels
+  
   g. Extra Illustrator capabilities
     
     i. Tracing raster images to vector objects
