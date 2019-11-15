@@ -7,8 +7,8 @@
   
   a. Required software:
     
-    i. QGIS: [https://qgis.org/en/site/forusers/download.html](https://qgis.org/en/site/forusers/download.html)
-    ii. Adobe Illustrator: [https://www.adobe.com/creativecloud.html](https://www.adobe.com/creativecloud.html)
+  i. QGIS: [https://qgis.org/en/site/forusers/download.html](https://qgis.org/en/site/forusers/download.html)
+  ii. Adobe Illustrator: [https://www.adobe.com/creativecloud.html](https://www.adobe.com/creativecloud.html)
   
   b. GIS Map Generation for extended workflow in Illustrator
   
