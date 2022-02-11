@@ -1,4 +1,6 @@
-# Coffee & Code - Cartography Workflows with Illustrator
+# Coffee & Code - Cartographic Workflows with Illustrator
+
+While Geographic Information Systems (GIS) provide powerful tools for creating, managing, analyzing, and visualizing geographic data, the generation of high-quality cartographic products from GIS often requires additional work in dedicated graphics programs. Adobe Illustrator is often used in conjunction with GIS workflows in the creation of publication-quality maps and other geographic information products. This workshop, jointly developed with Delaney Moghanian (the Multimedia Development Specialist in the UNM Library's Adobe Creative Commons), will demonstrate and provide an opportunity for hands-on practice in the development of initial map images in GIS and then transitioning into Adobe Illustrator to refine and customize those GIS maps. 
 
 ## Tutorial Outline
 
