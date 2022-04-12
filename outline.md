@@ -3,15 +3,16 @@
 1. Introduction
 2. Conceptual Overview
    1. Objective - production of publication quality graphic products based on geospatial data
-   2. Complementary roles of GIS and graphics programs in a production workflow
-   3. Shared concepts across applications
+   2. Cartographic/data visualization principles
+   3. Complementary roles of GIS and graphics programs in a production workflow
+   4. Shared concepts across applications
       1. Raster/vector
       2. Layers
       3. Objects
       4. Styling
       5. Layout
-   4. Exchange of content between applications using the shared PDF 
-   5. Other approaches
+   5. Exchange of content between applications using the shared PDF 
+   6. Other approaches
       1. Direct map production in Illustrator
          1. Based on available vector boundaries
          2. ArcGIS integration with Illustrator
