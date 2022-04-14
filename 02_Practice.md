@@ -34,11 +34,21 @@ Repeated process for Tribal Lands, New Mexico interstates, and well locations.
 ![Illustrator interface with all imported layers](images/2022-04-14_03-29-06.595.png)
 
 2. Selection and styling of features in Illustrator
-		1. 
- 
-3. Introduction of raster data in the workflow
-		1. QGIS - add 2 raster basemaps to vector map, one photo, another derived from digital terrain model (i.e. hillshade for nice cartographic effect with photo) - export PDF
-		2. Illustrator - opening of PDF file - demonstrate difference between vector and raster objects in imported PDF file, highlighting difference between types of objects (raster/vector) - copy raster objects from PDF file into new layers in previous PDF that had vector data moved into layers
+		1. Polygon selection and styling
+		2. Line selection and styling
+		3. Point selection and styling
+
+![County polygons selected based on same fill and stroke "Select" -> "Same" -> "Fill & Stroke"](2022-04-14_12-53-52.png)
+
+![Selected county polygons with "Inner Glow" effect applied](2022-04-14_12-59-05.996.png)
+
+![Sample set of customized styled county polygons](images/2022-04-14_13-20-13.455.png)
+
+Similar process for selecting and styling line and point features. 
+
+![Styled interstates](images/2022-04-14_13-46-31.954.png)
+
+![Styled well locations](images/2022-04-14_15-28-32.441.png)
  
 4. Addition of other cartographic elements
 		1. QGIS - add feature labels - demonstrate layout mode for adding legend, map scale, north arrow - export PDF
