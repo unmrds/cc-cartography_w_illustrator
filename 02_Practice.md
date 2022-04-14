@@ -11,7 +11,7 @@ Process
 
 1. Create an empty Illustrator document that the GIS-generated layers will be added to. 
 
-![Adobe Illustrator start screen from which a new blank, or existing project file can be opened]("images/2022-04-13_23-32-09.807.png")
+![Adobe Illustrator start screen from which a new blank, or existing project file can be opened](images/2022-04-13_23-32-09.807.png)
 
 If you like you can install the [Brewer color palette](http://mkweb.bcgsc.ca/brewer/) that I will be using. Otherwise you can use whatever colors you like within the existing suite of Illustrator palettes. 
 
@@ -21,17 +21,17 @@ If you like you can install the [Brewer color palette](http://mkweb.bcgsc.ca/bre
 	1. QGIS - demo of vector layer (counties) import - basic styling of features - export of PDF version of styled features		
 	2. Illustrator - opening of PDF file - copying, pasting and aligning separate feature collections
 
-![QGIS interface windows and elements]("images/2022-04-13_23-38-38.png")
+![QGIS interface windows and elements](images/2022-04-13_23-38-38.png)
 
-![Illustrator interface with imported satellite image basemap and set of layers for additional data]("images/2022-04-14_02-39-34.984.png")
+![Illustrator interface with imported satellite image basemap and set of layers for additional data](images/2022-04-14_02-39-34.984.png)
 
-![Styled classified county polygons]("images/2022-04-14_02-49-04.792.png")
+![Styled classified county polygons](images/2022-04-14_02-49-04.792.png)
 
-![Illustrator interface with imported classified county polygons]("images/2022-04-14_03-04-59.632.png")
+![Illustrator interface with imported classified county polygons](images/2022-04-14_03-04-59.632.png)
 
 Repeated process for Tribal Lands, New Mexico interstates, and well locations. 
 
-![Illustrator interface with all imported layers]("images/2022-04-14_03-29-06.595.png")
+![Illustrator interface with all imported layers](images/2022-04-14_03-29-06.595.png)
 
 2. Selection and styling of features in Illustrator
 		1. 
