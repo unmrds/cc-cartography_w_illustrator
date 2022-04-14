@@ -39,9 +39,9 @@ Repeated process for Tribal Lands, New Mexico interstates, and well locations.
 	2. Line selection and styling
 	3. Point selection and styling
 
-![County polygons selected based on same fill and stroke "Select" -> "Same" -> "Fill & Stroke"](2022-04-14_12-53-52.png)
+![County polygons selected based on same fill and stroke "Select" -> "Same" -> "Fill & Stroke"](images/2022-04-14_12-53-52.png)
 
-![Selected county polygons with "Inner Glow" effect applied](2022-04-14_12-59-05.996.png)
+![Selected county polygons with "Inner Glow" effect applied](images/2022-04-14_12-59-05.996.png)
 
 ![Sample set of customized styled county polygons](images/2022-04-14_13-20-13.455.png)
 
