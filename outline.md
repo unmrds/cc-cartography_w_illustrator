@@ -18,7 +18,7 @@
          2. ArcGIS integration with Illustrator
          3. [Avenza](https://www.avenza.com) Map Publisher
       2. Basic styling and layout in GIS application
-3. Demonstration / Practice (possibly Big-I and UNM campus area, though an area with more relief would be nice for demonstrating hillshade effect)
+3. Demonstration / Practice
    1. Single "layer" styling and transfer
       1. QGIS - demo of vector layer (transportation) import - basic styling of features - export of PDF version of styled features
       2. Illustrator - opening of PDF file - exploring and selecting (by shared appearance) features - grouping features - styling grouped features
